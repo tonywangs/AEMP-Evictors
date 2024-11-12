@@ -1,2 +1,4 @@
-# AEMP-Evictors
-Public Interest Technology Lab GovTech Project
+# AEMP-Webscrapers
+Stanford Public Interest Technology (PIT) Lab GovTech Project
+
+Demo video: https://youtu.be/R7jJBUvQzZo 
